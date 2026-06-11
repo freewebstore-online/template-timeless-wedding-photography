@@ -1,0 +1,10 @@
+{
+  "v": 1,
+  "slug": "timeless-wedding-photography",
+  "category": "services.photography",
+  "slot_schema_version": 1,
+  "author": {
+    "handle": "kirantikoo"
+  },
+  "license": "MIT"
+}
